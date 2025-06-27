@@ -1,20 +1,12 @@
 <!DOCTYPE html>
 <html lang="de">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Datenschutzerklärung</title>
-</head>
-<body>
-  <h1>Datenschutzerklärung</h1>
-  <p>
-    Zur automatisierten Beantwortung von Nachrichten auf Facebook nutzen wir den Dienst <strong>Make (www.make.com)</strong>. 
-    Dabei können personenbezogene Daten (z. B. Nachrichteninhalte, User-ID) automatisiert verarbeitet werden.
-    Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Basis unseres berechtigten Interesses an effizienter Kommunikation.
-  </p>
-  <p>
-    Weitere Informationen zu Make finden Sie unter 
-    <a href="https://www.make.com/en/privacy-policy" target="_blank">www.make.com/en/privacy-policy</a>.
-  </p>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Datenschutz</title>
+  </head>
+  <body>
+    <h1>Datenschutzerklärung</h1>
+    <p>Diese Seite verwendet keine Cookies. Es werden keine personenbezogenen Daten gespeichert.</p>
+    <p>Verantwortlich: [Dein Name oder Kontakt-E-Mail]</p>
+  </body>
 </html>
