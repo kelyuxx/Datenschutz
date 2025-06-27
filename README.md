@@ -1,1 +1,12 @@
-# Datenschutz
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Datenschutz</title>
+  </head>
+  <body>
+    <h1>Datenschutzerklärung</h1>
+    <p>Diese Seite verwendet keine Cookies. Es werden keine personenbezogenen Daten gespeichert.</p>
+    <p>Verantwortlich: [Dein Name oder Kontakt-E-Mail]</p>
+  </body>
+</html>
